@@ -1,0 +1,5 @@
+str_5 = '''Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Pellentesque libero massa, pharetra ut eleifend sit amet, suscipit
+  sit amet neque. Ut maximus tempus nisi, in feugiat erat mollis a.
+   Cras ullamcorper erat non metus eleifend, ac tempor risus dapibus. Vivamus felis leo, rhoncus aliquet urna ullamcorper, ornare eleifend tellus. Suspendisse erat quam, finibus et rutrum id, consectetur non justo. Maecenas ut vulputate est. Mauris aliquam consequat volutpat. Donec elementum at tellus vel fermentum. Vestibulum fringilla efficitur ante ut suscipit. Vestibulum facilisis congue velit, eget mattis lorem semper in. Vivamus scelerisque iaculis nulla, et dapibus leo finibus ac. Pellentesque sed enim purus. Donec volutpat neque quis scelerisque convallis. Etiam accumsan mattis erat, suscipit porta nisi lobortis sit amet. Ut finibus ipsum eu porttitor tempus.'''
+print(str_5.find("sed", 1))
